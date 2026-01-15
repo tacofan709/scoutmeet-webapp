@@ -1,0 +1,26 @@
+{
+  "knife": {
+    "id": "knife",
+    "name": "Knife Permit",
+    "description": "Placeholder — Scouts demonstrate safe knife use and maintenance.",
+    "requirements": ["Placeholder text until permit file is uploaded."]
+  },
+  "match_fire": {
+    "id": "match_fire",
+    "name": "Match & Fire Permit",
+    "description": "Placeholder — Scouts demonstrate safe fire-lighting and management skills.",
+    "requirements": ["Placeholder text until permit file is uploaded."]
+  },
+  "axe_saw": {
+    "id": "axe_saw",
+    "name": "Axe & Saw Permit",
+    "description": "Placeholder — Scouts demonstrate safe tool use and maintenance.",
+    "requirements": ["Placeholder text until permit file is uploaded."]
+  },
+  "stove_lantern": {
+    "id": "stove_lantern",
+    "name": "Stove & Lantern Permit",
+    "description": "Placeholder — Scouts demonstrate safe operation of stoves and lanterns.",
+    "requirements": ["Placeholder text until permit file is uploaded."]
+  }
+}
